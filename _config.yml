@@ -1,0 +1,28 @@
+name: rebolustdo
+favicon: null
+layout_spectrum: 0.44695323542691767
+typography_spectrum: 0.5559802802745253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.24833439569920301
+  lightness: 0.3902079565450549
+  saturation: 0.3338231311645359
+  rhythmicContrast: 0.819362651091069
+purpose: []
